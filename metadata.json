@@ -1,0 +1,12 @@
+{
+  "name": "Remix   KrishiVistar",
+  "description": "Smart agriculture and direct farm-to-buyer marketplace connecting farmers and buyers with real-time price discovery, weather harvest advisory, digital lot trading, and AI assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
